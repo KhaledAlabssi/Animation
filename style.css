@@ -23,7 +23,7 @@ nav {
 }
 
 nav > * {
-    padding: 0 20px;
+    padding: 0 2rem;
 }
 
 nav h2 {
@@ -32,15 +32,13 @@ nav h2 {
     color: #ddd;
     transition: .3s;
     letter-spacing: .1em;
-    font-weight: 400;
     
     
 }
 
 nav h2:hover {
     text-shadow: 0 0 1em white;
-    /* letter-spacing: .2em; */
-    font-weight: 700;
+  
 }
 
 nav ul {
@@ -56,7 +54,7 @@ nav ul:hover li a {
 }
 
 nav ul li {
-    margin-left: 0.8em;
+    margin-left: 1.5em;
 }
 
 nav ul li a{
